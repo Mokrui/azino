@@ -1,0 +1,6 @@
+﻿  Header.cpp
+C:\Users\mokru\Source\Repos\azino\azino\Header.cpp(4,13): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\mokru\Source\Repos\azino\azino\Header.cpp(4,15): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\mokru\Source\Repos\azino\azino\Header.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mokru\Source\Repos\azino\azino\Header.cpp(42): warning C4717: win: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  azino.vcxproj -> C:\Users\mokru\Source\Repos\azino\Debug\azino.exe
